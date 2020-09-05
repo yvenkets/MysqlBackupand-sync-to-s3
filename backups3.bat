@@ -1,0 +1,1 @@
+aws s3 sync C:\<yourfilelocation>\  s3://<yourbucketname>
